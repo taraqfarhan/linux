@@ -1,1 +1,8 @@
 Editing using the Github Remote Repositories Extension from the VS Code
+
+Now I've turned the wifi off just to see if this works offline
+ig it won't 
+Let's check now 
+I am going to commit now from the VS Code Source Control 
+
+Ahaa as expected, It's saying unable to commit
